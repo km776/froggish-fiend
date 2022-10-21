@@ -22,7 +22,7 @@ Hello! This repository is made for the IS 117 Project.
 * Number and section them into divs
 
 ### Ribbot
-~~* Ask for help about Discord Developer Portal and API @ Hackathons
+~~* Ask for help about Discord Developer Portal and API @ Hackathons~~
 * Link server connection as a button, centered in the middle
 * Separate divs (or classes?)
 
