@@ -29,5 +29,7 @@ Hello! This repository is made for the IS 117 Project.
 ### Contact Me
 * Email, linkedin profile
 
-### Other things to add..?
-* Frog cursor. just...yes
+## 10.21.22 - Initial Draft for Site
+* Figure out a way to keep the bot running consistently
+* Add more frog facts to the bot
+* Create a skeleton website, don't worry about content just yet
