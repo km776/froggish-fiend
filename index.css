@@ -1,0 +1,17 @@
+* {
+
+}
+
+html {
+    background-color: white;
+}
+
+.jumbotron {
+    padding: 25em;
+    text-align: center;
+    align-items: center;
+}
+
+h1.welcome {
+    color: white;
+}
