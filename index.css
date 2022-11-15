@@ -15,3 +15,9 @@ html {
 h1.welcome {
     color: white;
 }
+#userreviews {
+    padding-top: 25px;
+    align-items: center;
+    text-align: center;
+    background-color: #F6F2F1;
+}
