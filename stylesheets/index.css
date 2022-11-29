@@ -1,3 +1,5 @@
+/* DEVELOPER Kapila Mane, IS117-003, Fall 2022 */
+
 * {
 
 }
@@ -9,6 +11,11 @@ html {
 body {
     font-family: "Times New Roman", serif;
     font-size: 12pt;
+}
+
+.logo {
+    padding-left: 4em;
+    padding-right: 1em;
 }
 
 .jumbotron {
