@@ -8,6 +8,10 @@ html {
     background-color: white;
 }
 
+.navbar-nav {
+    padding-right: 1em;
+}
+
 body {
     font-family: "Times New Roman", serif;
     font-size: 12pt;
