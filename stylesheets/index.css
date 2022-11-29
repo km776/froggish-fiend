@@ -6,6 +6,11 @@ html {
     background-color: white;
 }
 
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 12pt;
+}
+
 .jumbotron {
     padding: 25em;
     text-align: center;
@@ -20,4 +25,10 @@ h1.welcome {
     align-items: center;
     text-align: center;
     background-color: #F6F2F1;
+}
+
+footer {
+    padding: 25px;
+    align-items: center;
+    text-align: center;
 }
