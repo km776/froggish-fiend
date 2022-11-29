@@ -1,0 +1,26 @@
+/* DEVELOPER Kapila Mane, IS117-003, Fall 2022  #F6F2F1;*/
+
+.logo {
+    padding-left: 4em;
+    padding-right: 1em;
+}
+
+.container-sm {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#ribbotimg {
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+
+p {
+    padding-bottom: 1em;
+}
+
+footer {
+    padding: 25px;
+    align-items: center;
+    text-align: center;
+}
