@@ -10,3 +10,12 @@ footer {
     align-items: center;
     text-align: center;
 }
+
+#etymotitle {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#frogbook {
+    padding-bottom: 1em;
+}
