@@ -5,6 +5,11 @@
     padding-right: 1em;
 }
 
+h1#greeting {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
 footer {
     padding: 25px;
     align-items: center;

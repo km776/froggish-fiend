@@ -1,5 +1,4 @@
 <!-- DEVELOPER: Kapila Mane, IS117-003, Fall 2022 -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +11,7 @@
     <title>contact me</title>
 </head>
 <!--nav bar-->
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #ffffff;">
     <div class="container-fluid">
         <img class="logo d-inline" src="/images/frog.png" alt="frog logo">
         <a class="navbar-brand" href="/index.html">frog.</a>
@@ -43,9 +42,26 @@
     </div>
 </nav>
 <body>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <h1 class="text-center" id="greeting">got something to say? i'm all ears.</h1>
+    <form>
+        <div class="mb-3 w-50 mx-auto">
+            <label class="form-label">name</label>
+            <input type="text" class="form-control" placeholder="name" aria-label="Username">
+            <div id="emailHelp" class="form-text">don't worry, it doesn't have to be your real name.</div>
+        </div>
+        <div class="mb-3 w-50 mx-auto">
+            <label for="exampleFormControlTextarea1" class="form-label">what do you want to say?</label>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="8" placeholder="type something here..."></textarea>
+        </div>
+        <div class="text-center">
+        <button type="submit" class="btn btn-dark">submit</button>
+        </div>
+    </form>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
-<footer class="text-center">
+
+<footer>
     <p> &copy; kapila mane 2022 &nbsp; &nbsp; &nbsp; &nbsp; terms of service &nbsp; &nbsp; &nbsp; &nbsp; privacy statement</p>
 </footer>
 </html>
