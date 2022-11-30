@@ -23,9 +23,8 @@ body {
 }
 
 .jumbotron {
-    padding: 25em;
-    text-align: center;
-    align-items: center;
+    padding-top: 25em;
+    padding-bottom: 25em;
 }
 
 h1.welcome {
@@ -33,13 +32,9 @@ h1.welcome {
 }
 #userreviews {
     padding-top: 25px;
-    align-items: center;
-    text-align: center;
     background-color: #F6F2F1;
 }
 
 footer {
     padding: 25px;
-    align-items: center;
-    text-align: center;
 }
