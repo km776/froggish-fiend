@@ -3,7 +3,8 @@
 
 Hello! This repository is made for the IS 117 Project.
 
-## 10.7.22 - Initial Draft for Site
+## 10.7.22 - Start
+* wow this is big
 
 ## 10.21.22 - Initial Draft for Site
 * Figure out a way to keep the bot running consistently
